@@ -8,12 +8,17 @@
     text-overflow: ellipsis;
 }
 
+a{
+    color: white !important;
+}
+
 .container{
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
 }
+
 section{
     padding: 20px;
 }
